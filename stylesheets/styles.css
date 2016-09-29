@@ -322,3 +322,8 @@ footer {
     color:#444;
   }
 }
+
+.low-key-link {
+  color: #727272;
+  text-decoration:underline;
+}
